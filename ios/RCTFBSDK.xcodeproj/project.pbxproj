@@ -365,8 +365,8 @@
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/../../../ios/Frameworks",
 					"$(PROJECT_DIR)/../../../ios/Pods",
+					"$(PROJECT_DIR)/../../../ios/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -389,8 +389,8 @@
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/../../../ios/Frameworks",
 					"$(PROJECT_DIR)/../../../ios/Pods",
+					"$(PROJECT_DIR)/../../../ios/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
